@@ -21,6 +21,8 @@ Self-hosted minecraft server, made in home, solo developed, Kxdee survival serve
 2. show days played enabled
 3. show coordinates enabled
 4. difficulty normal
+5. not using addon
+6. using server plugin (for fix previous problem)
 
 ### **Hacker?**
 If you found vulnerability in the game, use `/report vulnerability <msg: str>`. if you found it but not in the game, report in the discord server. But if you found exploit event, use `/report exploit <msg: str>` or `/report hacker <msg: str>`
