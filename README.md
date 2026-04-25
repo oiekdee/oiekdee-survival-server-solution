@@ -8,11 +8,13 @@ Self-hosted minecraft server, made in home, solo developed, Kxdee survival serve
 4. you have so much control of privacy and accessibility
 
 ###  **Our server rules**
-1. do not involve with external conflict or including external conflict in this game
-2. no toxic communication, no abussive, no racist
-3. respect other player's privacy
-4. grieving is optional
-5. kill player is optional
+1. do not involve with external conflict or including external conflict in this server
+2. do not causing internal conflict in this server
+3. no toxic communication, no abussive, no racist
+4. respect other player's privacy
+5. grieving is optional
+6. kill player is optional
+7. I make this server just for fun btw, so please do not make any uncomfortable condition 😁
 
 ### **Configuration**
 1. locator bar disabled
