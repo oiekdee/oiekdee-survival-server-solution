@@ -14,7 +14,7 @@ Self-hosted minecraft server, made in home, solo developed, Kxdee survival serve
 4. respect other player's privacy
 5. grieving is optional
 6. kill player is optional
-7. I make this server just for fun btw, so please do not make any uncomfortable condition 😁
+7. I make this server just for fun and achive achivement btw, so please do not make any uncomfortable condition 😁
 
 ### **Configuration**
 1. locator bar disabled
