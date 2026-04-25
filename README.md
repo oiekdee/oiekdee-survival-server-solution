@@ -1,10 +1,10 @@
 ### **What is this?**
-Self-hosted minecraft server, made in home, solo developed, Kxdee survival server/Civilan oiekdee survival server solution. Civilan oiekdee survival server solution is the successor to oiekdee survival server and vanilla survival server with no world reset that aims to enable you to achieve achievements and comfortable survival. With so many solution and fixes for previous hosted server.
+Self-hosted minecraft server, made in home, solo developed, Kxdee survival server/Oiekdee survival server solution. Oiekdee survival server solution is the successor to Oiekdee survival server with vanilla survival server with no world reset that aims to enable you to achieve achievements and comfortable survival. With so many solution and fixes for previous hosted server.
 
 ### **Why this is solution?**
 1. control of the server in your hands
 2. world logs to catch griever
-3. 100% communication with news and admin
+3. you have option to communication with server-news and admin
 4. you have so much control of privacy and accessibility
 
 ###  **Our server rules**
